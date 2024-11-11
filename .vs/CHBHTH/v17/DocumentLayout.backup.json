@@ -7,7 +7,19 @@
       "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\tuankiet\\chbhth\\chbhth\\chbhth\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\tuankiet\\chbhth\\chbhth\\chbhth\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\TuanKiet\\CHBHTH\\CHBHTH\\chbhth\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,50 +90,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
-              "RelativeDocumentMoniker": "CHBHTH\\Web.config",
-              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
-              "RelativeToolTip": "CHBHTH\\Web.config",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEUAAABjAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Web.config",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Web.config",
+              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Web.config",
+              "RelativeToolTip": "CHBHTH\\Views\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-11T06:32:44.112Z",
+              "WhenOpened": "2024-11-11T08:20:55.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DonHangsController.cs",
-              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
-              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
-              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
-              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAUwBcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:32:28.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "sanphamController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Controllers\\sanphamController.cs",
               "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
               "RelativeToolTip": "CHBHTH\\Controllers\\sanphamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T06:32:28.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "danhmucController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\danhmucController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Controllers\\danhmucController.cs",
@@ -142,7 +133,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "QLbanhang.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\QLbanhang.cs",
+              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\QLbanhang.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:32:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
+              "RelativeDocumentMoniker": "CHBHTH\\Web.config",
+              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
+              "RelativeToolTip": "CHBHTH\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T06:32:44.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAUwBcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:32:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ThongkesController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
@@ -155,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TaiKhoansController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
@@ -168,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ThongKes.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\ThongKes.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Models\\ThongKes.cs",
@@ -181,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Controllers\\UserController.cs",
@@ -194,20 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QLbanhang.cs",
-              "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
-              "RelativeDocumentMoniker": "CHBHTH\\Models\\QLbanhang.cs",
-              "ToolTip": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
-              "RelativeToolTip": "CHBHTH\\Models\\QLbanhang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:32:29.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ThanhToanDonHang.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GioHangController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\GioHangController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Controllers\\GioHangController.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SuaGioHang.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SanPhamsController.cs",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
               "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "danhmucpartial.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GioHang.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\GioHang.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\GioHang.cshtml",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "dauanpartial.cshtml",
               "DocumentMoniker": "D:\\TuanKiet\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
               "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
